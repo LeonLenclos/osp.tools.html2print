@@ -59,12 +59,13 @@ To do so, open the file `start` and go to <http://localhost:8000/> with a compat
 
 ### Setup
 
-Example is based on an A5 format. 
+Example is based on an A5 format.
+
 Edit:
-    - `/content.html`: To put your own HTML content;
-    - `/setup/setup.js`: To change the number of pages and the content file (if different from `content.html`);
-    - `/setup/setup.less`: To change the format, margins, header or footer content;
-    - `/setup/styles.less`: To add your own styles.
+- `/content.html`: To put your own HTML content;
+- `/setup/setup.js`: To change the number of pages and the content file (if different from `content.html`);
+- `/setup/setup.less`: To change the format, margins, header or footer content;
+- `/setup/styles.less`: To add your own styles.
 
 
 ### Print
